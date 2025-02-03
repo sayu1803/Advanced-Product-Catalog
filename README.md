@@ -105,9 +105,6 @@ This project is an **Advanced Product Catalog** for an e-commerce platform. It a
 
 [Live Demo Link](https://shop-smart-task.netlify.app/)
 
-## Repository
-
-[GitHub Repository](https://github.com/sayu1803/Advanced-Product-Catalog)
 
 ## Contact
 
