@@ -111,4 +111,4 @@ This project is an **Advanced Product Catalog** for an e-commerce platform. It a
 
 ## Contact
 
-For any questions or feedback, please contact [mahesh.takey@cadandcart.com](mailto:mahesh.takey@cadandcart.com).
+For any questions or feedback, please contact [sayantanrabi.03@gmail.com](mailto:sayantanrabi.03@gmail.com).
